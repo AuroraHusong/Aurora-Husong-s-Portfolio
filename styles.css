@@ -44,7 +44,7 @@ a{
     font-size: 22px;
     padding:20px;
     color:#836a49;
-    height:25px;
+    height:fit-content;
 }
 a:hover{
     color:rgb(102, 36, 36);
