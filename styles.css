@@ -20,12 +20,14 @@ h1{
     color:rgb(69, 68, 70);
     font-size: 50px;
 }
-
+h2{
+    font-size: 30px;
+}
 h3{
-    font-size: 25px;
+    font-size: 28px;
 }
 h4{
-    font-size: 28px;
+    font-size: 25px;
 }
 p{
     flex-wrap: wrap;
@@ -33,10 +35,18 @@ p{
     padding:10px;
 }
 ul{
-    font-size: 22px;
-    
+    font-size: 22px;   
+}
+.profilePhoto{
+    width:220;
+    height:250;
+    margin:15px;
+    border-radius: 50%;
+    border: 6px solid #697d93;
 }
 img{
+    width:170;
+    height:180;
     margin:15px;
     border-radius: 50%;
     border: 6px solid #697d93;
