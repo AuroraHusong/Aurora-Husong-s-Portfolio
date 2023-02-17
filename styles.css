@@ -2,7 +2,7 @@ html{
     background-color: rgb(216, 170, 208);
     font-family: 'Libre Baskerville', serif;
     text-align: center;
-    color:rgb(69, 68, 70);
+    color: rgb(69, 68, 70);
 }
 header{
     display:inline-block;
@@ -23,6 +23,7 @@ h1{
 h2{
     font-size: 30px;
 }
+
 h3{
     font-size: 28px;
 }
@@ -35,35 +36,35 @@ p{
     padding:10px;
 }
 ul{
-    font-size: 22px;   
+    font-size: 22px;
+    
 }
 .profilePhoto{
-    width:220px;
-    height:250px;
+    width: 220px;
+    height: 270px;
     margin:15px;
     border-radius: 50%;
     border: 6px solid #697d93;
 }
 img{
-    display:inline-block;
-    width:170px;
-    height:180px;
-    margin:15px;
+    width: 170px;
+    height: 180px;
+    margin: 15px;
     border-radius: 50%;
     border: 6px solid #697d93;
 }
 a{
-    height:fit-content;
+    height: fit-content;
     font-size: 22px;
-    padding:20px;
-    color:#836a49;
+    padding: 20px;
+    color: #836a49;
 }
 a:hover{
-    color:rgb(102, 36, 36);
+    color: rgb(102, 36, 36);
     font-size: 30px;
 }
 
 hr{
     width: 500px;
-    color:#697d93;
+    color: #697d93;
 }
