@@ -35,13 +35,20 @@ p{
     font-size: 22px;
     padding:10px;
 }
+ol{
+    flex-wrap: wrap;
+    list-style-position: inside;
+    font-size: 18px;
+    
+}
 ul{
-    font-size: 22px;
+    list-style-position: inside;
+    font-size: 20px;
     
 }
 .profilePhoto{
     width: 220px;
-    height: 270px;
+    height: 250px;
     margin:15px;
     border-radius: 50%;
     border: 6px solid #697d93;
