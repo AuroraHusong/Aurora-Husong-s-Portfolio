@@ -45,6 +45,7 @@ ul{
     border: 6px solid #697d93;
 }
 img{
+    display:inline-block;
     width:170px;
     height:180px;
     margin:15px;
