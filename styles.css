@@ -35,8 +35,8 @@ p{
     font-size: 22px;
     padding:10px;
 }
+
 ol{
-    flex-wrap: wrap;
     list-style-position: inside;
     font-size: 18px;
     
